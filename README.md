@@ -1,21 +1,21 @@
 ```js
 class Ajay {
     constructor() {
-        this.alias  = [ 'Aju', undefined ]
+        this.alias              = [ 'Aju', undefined ]
     }
 
     contact() {
-        const telegram  = 't.me/aju404'
-        const email     = 'connects.ajay@gmail.com'
-        const linkedin  = 'linkedin.com/in/ajay-er'
+        const telegram          = 't.me/aju404'
+        const email             = 'connects.ajay@gmail.com'
+        const linkedin          = 'linkedin.com/in/ajay-er'
         
         return telegram, email, linkedin
     }
 
     life() {
-        const age         = 23
-        const occupation  = 'Freelance Software Developer'
-        const hobbies     = ['Mastering "404" Pages', 'Reverse Engineering', 'Designing Dockerized Escape Rooms']
+        const age               = 23
+        const occupation        = 'Freelance Software Developer'
+        const hobbies           = ['Mastering "404" Pages', 'Reverse Engineering', 'Designing Dockerized Escape Rooms']
         
         return age, occupation, hobbies
     }
