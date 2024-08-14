@@ -13,7 +13,7 @@ class Ajay {
     }
 
     life() {
-        const age           = 23
+        const age           = 24
         const occupation    = 'Freelance Software Developer'
         const hobbies       = ['Mastering "404" Pages', 'Reverse Engineering', 'Designing Dockerized Escape Rooms']
         
