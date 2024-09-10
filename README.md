@@ -7,9 +7,10 @@ class Ajay {
     contact() {
         const telegram    = 't.me/aju404'
         const email       = 'connects.ajay@gmail.com'
+        const x           = 'x.com/ajayretry'
         const linkedin    = 'linkedin.com/in/ajay-er'
         
-        return telegram, email, linkedin
+        return telegram, email, linkedin, x
     }
 
     life() {
