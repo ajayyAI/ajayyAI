@@ -31,6 +31,17 @@ class Ajay {
 
         return languages, learning, ide, preferredLanguage
     }
+
+    owl() {
+        const art = `
+          ,___,
+         [O.o]    Who codes at night?
+         /)  )\\   
+        -"--"--   
+        `;
+        console.log(art);
+    }
+
 }
 
 export default Ajay
